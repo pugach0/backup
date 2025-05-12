@@ -1,0 +1,4 @@
+2025/05/10-07:37:04.991 584 Reusing MANIFEST /home/pugach/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/10-07:37:04.991 584 Recovering log #15
+2025/05/10-07:37:04.992 584 Reusing old log /home/pugach/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000015.log 
+2025/05/10-07:37:04.992 584 Delete type=2 #14

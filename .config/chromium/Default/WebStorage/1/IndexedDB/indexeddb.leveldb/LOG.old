@@ -1,0 +1,7 @@
+2025/05/12-10:05:11.209 423 Reusing MANIFEST /home/pugach/.config/chromium/Default/WebStorage/1/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/05/12-10:05:11.209 423 Recovering log #3
+2025/05/12-10:05:11.217 423 Reusing old log /home/pugach/.config/chromium/Default/WebStorage/1/IndexedDB/indexeddb.leveldb/000003.log 
+2025/05/12-10:15:13.956 423 Level-0 table #5: started
+2025/05/12-10:15:13.978 423 Level-0 table #5: 24940 bytes OK
+2025/05/12-10:15:14.012 423 Delete type=0 #3
+2025/05/12-10:15:14.012 423 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

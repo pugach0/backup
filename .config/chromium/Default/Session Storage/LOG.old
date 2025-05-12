@@ -1,0 +1,21 @@
+2025/05/12-06:55:29.120 4 Reusing MANIFEST /home/pugach/.config/chromium/Default/Session Storage/MANIFEST-000001
+2025/05/12-06:55:29.121 4 Recovering log #11
+2025/05/12-06:55:29.194 4 Reusing old log /home/pugach/.config/chromium/Default/Session Storage/000011.log 
+2025/05/12-10:05:16.876 5 Level-0 table #14: started
+2025/05/12-10:05:16.923 5 Level-0 table #14: 38767 bytes OK
+2025/05/12-10:05:16.957 5 Delete type=0 #11
+2025/05/12-12:56:21.825 4 Level-0 table #16: started
+2025/05/12-12:56:21.919 4 Level-0 table #16: 566906 bytes OK
+2025/05/12-12:56:21.987 4 Delete type=0 #13
+2025/05/12-12:57:00.993 5 Level-0 table #18: started
+2025/05/12-12:57:01.051 5 Level-0 table #18: 585074 bytes OK
+2025/05/12-12:57:01.085 5 Delete type=0 #15
+2025/05/12-12:57:01.086 5 Compacting 4@0 + 1@1 files
+2025/05/12-12:57:01.136 5 Generated table #19@0: 269 keys, 1180135 bytes
+2025/05/12-12:57:01.136 5 Compacted 4@0 + 1@1 files => 1180135 bytes
+2025/05/12-12:57:01.169 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/12-12:57:01.170 5 Delete type=2 #14
+2025/05/12-12:57:01.170 5 Delete type=2 #8
+2025/05/12-12:57:01.170 5 Delete type=2 #16
+2025/05/12-12:57:01.170 5 Delete type=2 #18
+2025/05/12-12:57:01.170 5 Delete type=2 #10
