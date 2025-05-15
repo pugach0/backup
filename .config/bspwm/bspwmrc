@@ -23,6 +23,7 @@ bash /home/pugach/.config/polybar/launch.sh&& bspc rule -a Polybar border=off st
 pidof picom 1> /dev/null || picom --config ~/.config/picom/picom.conf &
 eval "$(dbus-launch)"&
 xinput --set-prop 8 'libinput Accel Speed' -1&
+~/.config/conky/launch.sh
 
 #Language
 setxkbmap -option grp:caps_toggle us,ua

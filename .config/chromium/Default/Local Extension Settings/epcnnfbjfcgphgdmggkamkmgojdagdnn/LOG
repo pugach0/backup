@@ -1,26 +1,3 @@
-2025/05/14-10:01:51.537 2840 Reusing MANIFEST /home/pugach/.config/chromium/Default/Local Extension Settings/epcnnfbjfcgphgdmggkamkmgojdagdnn/MANIFEST-000001
-2025/05/14-10:01:51.537 2840 Recovering log #15
-2025/05/14-10:01:52.824 2840 Level-0 table #18: started
-2025/05/14-10:01:53.021 2840 Level-0 table #18: 1468174 bytes OK
-2025/05/14-10:01:53.222 2840 Delete type=0 #15
-2025/05/14-10:11:42.232 2841 Compacting 1@0 + 1@1 files
-2025/05/14-10:11:42.272 2841 Generated table #20@0: 10 keys, 1448079 bytes
-2025/05/14-10:11:42.272 2841 Compacted 1@0 + 1@1 files => 1448079 bytes
-2025/05/14-10:11:42.305 2841 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/05/14-10:11:42.305 2841 Delete type=2 #16
-2025/05/14-10:11:42.305 2841 Delete type=2 #18
-2025/05/14-10:14:28.512 2841 Level-0 table #22: started
-2025/05/14-10:14:28.580 2841 Level-0 table #22: 1444855 bytes OK
-2025/05/14-10:14:28.615 2841 Delete type=0 #19
-2025/05/14-10:23:53.886 2840 Compacting 1@0 + 1@1 files
-2025/05/14-10:23:53.959 2840 Generated table #23@0: 10 keys, 1439935 bytes
-2025/05/14-10:23:53.959 2840 Compacted 1@0 + 1@1 files => 1439935 bytes
-2025/05/14-10:23:53.993 2840 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/05/14-10:23:53.993 2840 Delete type=2 #20
-2025/05/14-10:23:53.993 2840 Delete type=2 #22
-2025/05/14-10:31:35.598 2841 Compacting 1@1 + 1@2 files
-2025/05/14-10:31:35.665 2841 Generated table #24@1: 12 keys, 1440011 bytes
-2025/05/14-10:31:35.665 2841 Compacted 1@1 + 1@2 files => 1440011 bytes
-2025/05/14-10:31:35.699 2841 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/05/14-10:31:35.699 2841 Delete type=2 #13
-2025/05/14-10:31:35.699 2841 Delete type=2 #23
+2025/05/14-21:42:44.075 2c4d Reusing MANIFEST /home/pugach/.config/chromium/Default/Local Extension Settings/epcnnfbjfcgphgdmggkamkmgojdagdnn/MANIFEST-000001
+2025/05/14-21:42:44.076 2c4d Recovering log #21
+2025/05/14-21:42:44.076 2c4d Reusing old log /home/pugach/.config/chromium/Default/Local Extension Settings/epcnnfbjfcgphgdmggkamkmgojdagdnn/000021.log 
