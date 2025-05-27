@@ -1,5 +1,5 @@
 #!/bin/sh
-
+xinput --set-prop 8 'libinput Accel Speed' -1&
 pgrep -x sxhkd > /dev/null || sxhkd &
 
 bspc monitor -d I II III IV V

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>New Tab</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      font: 22px "Courier New", Courier, monospace;
+      background-color: black;
+      color: #E4ECF5;
+    }
+
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 2em;
+    }
+
+    nav {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+
+    h1 {
+      color: #A4B8D8; /* Refined color for better contrast and style */
+      font-size: 2.5em;
+      margin: 0.2em 0;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 1em 0 2em 0;
+    }
+
+    li {
+      line-height: 2em;
+    }
+
+    li:first-child {
+      font-weight: bold;
+    }
+
+    a {
+      color: #B1CBE9;
+      text-decoration: none;
+    }
+
+    a:hover, a:focus {
+      color: #E4ECF5;
+    }
+
+    img {
+      max-width: 100%;
+      width: 400px; /* smaller GIF */
+      height: auto;
+      border: 2px solid black;
+      object-fit: cover;
+      object-position: center;
+    }
+
+    @media (min-width: 600px) {
+      body {
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+      }
+
+      nav {
+        align-items: flex-start;
+        text-align: left;
+      }
+
+      img {
+        width: 400px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <h1>WIRED</h1>
+    <ul>
+      <li>bookmarks</li>
+      <li><a href="https://zno.osvita.ua/">tests</a></li>
+      <li><a href="https://learngerman.dw.com/en/nicos-weg/c-36519789">dw</a></li>
+      <li><a href="https://roadmap.sh/?fl=0">roadmap</a></li>
+    </ul>
+  </nav>
+
+  <img src="https://storage.googleapis.com/replit/images/1573840564546_9c1ad44f9c588ccdfa66cd4366732105.gif" alt="GIF">
+</body>
+</html>
+

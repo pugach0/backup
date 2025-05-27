@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/pugach/Pictures/2315321.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#09080C",
+        "foreground": "#bfc9c8",
+        "cursor": "#bfc9c8"
+    },
+    "colors": {
+        "color0": "#09080C",
+        "color1": "#848776",
+        "color2": "#47708D",
+        "color3": "#74978D",
+        "color4": "#6A93A7",
+        "color5": "#679DC9",
+        "color6": "#8F8F8C",
+        "color7": "#bfc9c8",
+        "color8": "#858c8c",
+        "color9": "#848776",
+        "color10": "#47708D",
+        "color11": "#74978D",
+        "color12": "#6A93A7",
+        "color13": "#679DC9",
+        "color14": "#8F8F8C",
+        "color15": "#bfc9c8"
+    }
+}

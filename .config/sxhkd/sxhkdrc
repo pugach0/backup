@@ -186,4 +186,4 @@ super + ctrl + p
 
 #Telegram
 super + d
-	flatpak run org.telegram.desktop
+  	flatpak run io.github.kotatogram
