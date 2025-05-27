@@ -1,0 +1,1 @@
+No matter what happens in my life, i keep my patience, but if social interaction goes even a little bit wrong? i fucking break down.
